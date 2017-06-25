@@ -1,0 +1,4 @@
+project/include/
+project/lib/
+project/bin/
+project/pip-selfcheck.json
